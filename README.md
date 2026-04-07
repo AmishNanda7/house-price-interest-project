@@ -7,8 +7,8 @@ Predicting Los Angeles Home Values Using Mortgage Interest Rates
 This project predicts next month’s Los Angeles home value using Zillow home value data and U.S. mortgage interest rate data.
 
 ## Datasets Used
-1. Zillow Metro ZHVI dataset
-2. FRED MORTGAGE30US dataset
+1. Zillow Metro ZHVI dataset   link- https://www.zillow.com/research/data/
+2. FRED MORTGAGE30US dataset   link- https://fred.stlouisfed.org/data/MORTGAGE30US
 
 ## Methods Used
 - Data cleaning
